@@ -1,29 +1,29 @@
-Pertaining-to
+Pertaining to
 Germ
 Germ
 Germ
 Cell
 Cell
 Pain
-Pertaining-to
-Pertaining-to
+Pertaining to
+Pertaining to
 Dilation
-Blood-condition
+Blood condition
 Condition
-Formation-of
+Formation of
 Condition
 Inflammation
 Inflammation
-Pertaining-to
+Pertaining to
 Tissue
 Dissolving
-Break-down
+Break down
 Softening
 Enlargement
 Resembling
 Tumor
 Abnormal
-Pertaining-to
+Pertaining to
 Disease
 Deficiency
 Eating
@@ -42,18 +42,18 @@ Hardening
 Condition
 Unchanging
 Growth
-In-the-urine
-Surgical-puncture-to-remove-fluid
-Surgical-binding
+In the urine
+Surgical puncture to remove fluid
+Surgical binding
 Removal
 Picture
-Instrument-used-to-create-a-picture
-To-take-a-picture
-Device-used-for-measuring
-Visual-examination
+Instrument used to create a picture
+To take a picture
+Device used for measuring
+Visual examination
 Opening
 Incision
-Surgical-fixation
-Surgical-reconstruction
-For-examining
+Surgical fixation
+Surgical reconstruction
+For examining
 Examine

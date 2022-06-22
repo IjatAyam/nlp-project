@@ -17,7 +17,7 @@ Female
 Female
 Water
 Self
-Break-down
+Break down
 Dissolving
 Bad
 Fungus
@@ -34,7 +34,7 @@ Hearing
 Gland
 Fat
 Gland
-Blood-vessel
+Blood vessel
 Artery
 Joint
 Cheek
@@ -80,7 +80,7 @@ Breast
 Meniges
 Muscle
 Muscle
-Spinal-cord
+Spinal cord
 Kidney
 Nerve
 Eye
@@ -126,7 +126,7 @@ Muscular
 Split
 Hardness
 Hardness
-Sigmoid-colon
+Sigmoid colon
 Sperm
 Sperm
 Sperm
@@ -137,14 +137,14 @@ Mouth
 Mouth
 Chest
 Chest
-Blood-clot
-Thyroid-gland
+Blood clot
+Thyroid gland
 Trachea
 Eardrum
 Urine
 Vagina
 Duct
-Blood-vessel
+Blood vessel
 Vein
 Vertebra
 Green
@@ -155,7 +155,7 @@ Red
 White
 Black
 Cold
-Electrical-activity
+Electrical activity
 Movement
 Movement
 Movement
@@ -165,8 +165,8 @@ Light
 Net
 Twisted
 Heat
-Away-from
-Away-from
+Away from
+Away from
 Towards
 Before
 Around
@@ -178,7 +178,7 @@ Outside
 Inner
 Inner
 Inner
-Outside-of
+Outside of
 Beyond
 Beyond
 Beneath
