@@ -63,7 +63,7 @@ while True:
     prefix_word = chosen_prefix_term['mean'] if chosen_prefix_term else ''
     suffix_word = chosen_suffix_term['mean'] if chosen_suffix_term else ''
 
-    if sliced_word != '':
+    if len(sliced_word) > 2:
         word_mean = f"{prefix_word} {sliced_word} {suffix_word}"
     else:
         word_mean = f"{prefix_word} {suffix_word}"
